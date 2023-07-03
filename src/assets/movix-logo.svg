@@ -1,0 +1,13 @@
+<svg width="290" height="60" viewBox="0 0 300 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <pattern id="logoPattern" x="0" y="0" width="54" height="54" patternUnits="userSpaceOnUse">
+            <image href="movix-logo.png" x="0" y="0" width="54" height="54" />
+        </pattern>
+        <linearGradient id="paint0_linear_425_166" x1="54" y1="3" x2="54" y2="57" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F25A38"/>
+            <stop offset="1" stop-color="#E9336B"/>
+        </linearGradient>
+    </defs>
+    <circle cx="40" cy="30" r="27" fill="url(#logoPattern)" />
+    <text x="75" y="38" font-family="Arial" font-size="28" fill="white">MovieMasterMind</text>
+</svg>
